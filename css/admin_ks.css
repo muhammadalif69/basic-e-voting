@@ -1,0 +1,93 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	font-family: poppins, sans-serif;
+	font-size: 0.88rem;
+	background: #f6f6f9;
+	user-select: none;
+	overflow-x: hidden;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+img {
+	display: block;
+	width: 100%;
+}
+
+i{
+	margin-right: 0.5rem;
+}
+
+h1 {
+	font-family: 800;
+	font-size: 1.8rem;
+}
+
+h2 {
+	font-size: 1.4rem;
+}
+
+h3 {
+	font-size: 0.87rem;
+}
+
+h4 {
+	font-size: 0.8rem;
+}
+
+h4 {
+	font-size: 0.77rem;
+}
+
+small {
+	font-size: 0.75rem;
+}
+
+.list-sidebar {
+    list-style: none;
+    margin: 20px 0 20px 0;
+}
+
+.bd-links-link{
+    color: black;
+}
+
+.list-sidebar a.active {
+	color: #0d6efd;
+	margin-left: 0;
+}
+
+.bd-links-link:hover{
+	color: #0d6efd;
+}
+
+.btn {
+    border: none;
+}
+
+.card-table-kandidat {
+	padding: 1rem;
+	background: white;
+	border-radius: 20px;
+    margin-bottom: 1rem;
+
+}
+
+table {
+    position: relative;
+    border-collapse: collapse; 
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #000000;
+}
+th {
+    border-radius: 0;
+    text-align: center;
+    top: 0;
+}
