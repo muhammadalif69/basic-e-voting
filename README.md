@@ -67,7 +67,7 @@ basic-e-voting/
 │   └── (all js)
 └── img/
     └── (all img)
-
+```
 
 ## 🌐 Live Demo
 
