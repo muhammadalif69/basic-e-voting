@@ -73,7 +73,7 @@ basic-e-voting/
 
 <p align="center">
   🚀 <b>View Online:</b><br>
-  👉 <a href="https://muhammadalif69.github.io/website-basic-pnl/">Click here to open the website</a>
+  👉 <a href="https://muhammadalif69.github.io/basic-e-voting/">Click here to open the website</a>
 </p>
 
 ## 💬 Acknowledgments
