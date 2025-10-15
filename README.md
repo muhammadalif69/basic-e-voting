@@ -48,7 +48,7 @@ This project demonstrates how an e-voting system might function in a digital env
 |-------------|-------------|
 | **HTML5** | Structure and layout of web pages |
 | **CSS3** | Styling, colors, and responsive design |
-| **JavaScript**  Voting logic and interactivity |
+| **JavaScript** | Voting logic and interactivity |
 | **GitHub Pages** | Free hosting and deployment |
 
 ---
